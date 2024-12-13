@@ -3,31 +3,30 @@
 Welcome to my GitHub! I'm a Computer Science student at the University of Tehran, specializing in data science and machine learning. I am passionate about solving complex problems, working on innovative projects, and learning new technologies.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, JavaScript
+- **Languages:** Python, JavaScript, C++
 - **Web Development:** React, FastAPI
 - **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
-- **Databases:** PostgreSQL, MongoDB
+- **Databases:** PostgreSQL
 - **Other Tools:** Docker, Git, Linux
 
 ## 🚀 Current Projects
-- **Data Science Projects**: Exploring deep learning models and applying them to real-world problems.
+- **Deeplearning Projects**: Exploring deep learning models and applying them to real-world problems.
+- **Hand Indentification Using Mamba**: Age and gender classification and Identification using mamba network.
 - **FastAPI Backend**: Developing asynchronous APIs using FastAPI for efficient data processing.
 - **TOEFL-GPT**: A React app that helps users prepare for the TOEFL exam by providing personalized reading speed exercises.
 
 ## 📚 Education & Achievements
 - **B.Sc. in Computer Science**, University of Tehran
-- **DataCamp Associate Data Scientist with Python** certification
-- Ranked among the top 0.27% of students in the Iranian University Entrance Exam
+- **Raned 3rd in the University of Tehran, Computer Science Major**
 - Accepted paper at IKT Conference (under review by IEEE)
   
 ## 🌱 I'm currently learning
-- Quantum Computing (Specialization in Data Science for Decision Making at Polimi)
+- Quantum Computing
 - Advanced Machine Learning Techniques
 
 ## 📫 How to reach me
-- Email: amirabbas.rezasoltani@outlook.com
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amirabbas-rezasoltani)
-- GitHub: [GitHub](https://github.com/AmirabbasRezasoltani)
+- Email: amirsoltani2002@gmail.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amirabbas-rezasoltani-016322222/)
 
 ## 💬 Fun Facts
 - Passionate about technology's potential to revolutionize business and society.
