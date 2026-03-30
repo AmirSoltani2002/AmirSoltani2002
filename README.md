@@ -1,13 +1,13 @@
 # Hi there, I'm Amirabbas Rezasoltani 👋
 
-Welcome to my GitHub! I'm a Computer Science student at the University of Tehran, specializing in data science and machine learning. I am passionate about solving complex problems, working on innovative projects, and learning new technologies.
+Welcome to my GitHub! I used to be a Computer Science student at the University of Tehran, and now I am studying as an Erasmus Mundus student in the University of Genova, specializing in data science. I am passionate about solving complex problems, working on innovative projects, and learning new technologies. Now I am learning about Devops, infrastructure and their tools.
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, JavaScript, C++
 - **Web Development:** React, FastAPI
 - **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
 - **Databases:** PostgreSQL
-- **Other Tools:** Docker, Git, Linux
+- **Devops:** Linux, Docker, GitHub, Jenkins, Terraform, Ansible, K8s
 
 ## 🚀 Current Projects
 - **Deeplearning Projects**: Exploring deep learning models and applying them to real-world problems.
