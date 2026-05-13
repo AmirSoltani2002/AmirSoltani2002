@@ -10,6 +10,8 @@ Welcome to my GitHub! I used to be a Computer Science student at the University 
 - **Devops:** Linux, Docker, GitHub, Jenkins, Terraform, Ansible, K8s
 
 ## 🚀 Current Projects
+- **CI_CD pripeline**: Exploeing AWS resource, using EKS resource and helm to implement CI CD pipeline with Jenkins, Sonarqube, and Nexus.
+- **AWS 3-Tier Architecture**: Create a AWS 3-Tier architecture, using k8s, for a Java app.
 - **Deeplearning Projects**: Exploring deep learning models and applying them to real-world problems.
 - **Hand Indentification Using Mamba**: Age and gender classification and Identification using mamba network.
 - **FastAPI Backend**: Developing asynchronous APIs using FastAPI for efficient data processing.
