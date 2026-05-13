@@ -23,8 +23,9 @@ Welcome to my GitHub! I used to be a Computer Science student at the University 
 - Accepted paper at IKT Conference (under review by IEEE)
   
 ## 🌱 I'm currently learning
-- Quantum Computing
-- Advanced Machine Learning Techniques
+- K8s
+- Ansible
+- Terraform
 
 ## 📫 How to reach me
 - Email: amirsoltani2002@gmail.com
