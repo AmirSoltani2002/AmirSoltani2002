@@ -27,7 +27,7 @@ I'm **Amirabbas Rezasoltani**, a Computer Science graduate from the **University
 - ☁️ **Infrastructure & automation:** hands-on projects with Docker, Kubernetes, Terraform, Jenkins, and AWS tooling.
 - 🧠 **Applied AI:** deep learning, computer vision, Mamba-based biometrics, and workflows that connect external AI services.
 - 🛠️ **Applications:** Python APIs, React interfaces, and PostgreSQL-backed systems.
-- 🌱 **Currently learning:** Kubernetes, Ansible, and Terraform.
+- 🌱 **Currently learning:** Harness Engineering.
 - 💡 **Long-term interest:** building products that bring technical and business ideas together.
 
 <br/>
