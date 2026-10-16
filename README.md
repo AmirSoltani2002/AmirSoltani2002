@@ -128,7 +128,7 @@ Work on hand biometric identification using Mamba and U-Net architectures. A pap
   </tr>
   <tr>
     <td><b>Web & data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,fastapi,postgres,git&theme=dark" height="40" alt="React, FastAPI, PostgreSQL, Git"/></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nestjs,fastapi,postgres,git&theme=dark" height="40" alt="React, NestJS, FastAPI, PostgreSQL, Git"/></td>
   </tr>
   <tr>
     <td><b>Machine learning</b></td>
