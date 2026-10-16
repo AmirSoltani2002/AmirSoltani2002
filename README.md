@@ -87,24 +87,16 @@ Work on hand biometric identification using Mamba and U-Net architectures. A pap
       <img src="https://img.shields.io/badge/Computer_vision-8B5CF6?style=flat-square" alt="Computer vision"/>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/AmirSoltani2002/lang_front"><img src="./assets/wordloom.svg" width="100%" alt="Wordloom: add a word, generate an AI example, schedule reminders, and review"/></a>
-      <h3><a href="https://github.com/AmirSoltani2002/lang_front">Wordloom · Language Flashcards</a></h3>
-      <p>A language-learning app with <b>spaced repetition</b>, optional AI-generated example sentences, and review reminders. A React + TypeScript frontend connects to an async FastAPI backend with PostgreSQL.</p>
-      <p><a href="https://github.com/AmirSoltani2002/lang_front">Frontend</a> · <a href="https://github.com/AmirSoltani2002/lang_back">Backend</a></p>
+      <a href="https://github.com/AmirSoltani2002/KBG_frontend"><img src="./assets/kbg-erp.png" width="100%" alt="KBG ERP: Persian workspace for production, warehouse operations, quality control, and orders"/></a>
+      <h3><a href="https://github.com/AmirSoltani2002/KBG_frontend">KBG · Petrochemical ERP</a></h3>
+      <p>A customized ERP system for a petrochemical company. A <b>React + TypeScript frontend</b> connects to my <b>kbg_backend</b> project for production and lot tracking, raw-material intake, quality control, certificates of analysis, orders, and user permissions in a Persian, right-to-left interface.</p>
+      <p><a href="https://github.com/AmirSoltani2002/KBG_frontend">Frontend &amp; UI gallery</a> · <a href="https://github.com/AmirSoltani2002/kbg_backend">Backend</a></p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
     </td>
   </tr>
 </table>
-
-### KBG · Petrochemical ERP
-
-<a href="https://github.com/AmirSoltani2002/KBG_frontend"><img src="./assets/kbg-erp.png" width="100%" alt="KBG ERP: Persian right-to-left workspace for production, warehouse operations, quality control, and orders"/></a>
-
-A customized ERP system for a petrochemical company, with a **React + TypeScript frontend** connected to my **[kbg_backend](https://github.com/AmirSoltani2002/kbg_backend)** project. Covers production and lot tracking, raw-material intake, laboratory test results and approvals, certificates of analysis, customer orders, and user permissions in a Persian, right-to-left interface.
-
-[Frontend & UI gallery](https://github.com/AmirSoltani2002/KBG_frontend) · [Backend](https://github.com/AmirSoltani2002/kbg_backend)
 
 <details>
 <summary><b>More projects & coursework</b></summary>
