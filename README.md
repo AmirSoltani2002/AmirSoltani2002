@@ -98,6 +98,14 @@ Work on hand biometric identification using Mamba and U-Net architectures. A pap
   </tr>
 </table>
 
+### KBG · Petrochemical ERP
+
+<a href="https://github.com/AmirSoltani2002/KBG_frontend"><img src="./assets/kbg-erp.png" width="100%" alt="KBG ERP: Persian right-to-left workspace for production, warehouse operations, quality control, and orders"/></a>
+
+A customized ERP system for a petrochemical company, with a **React + TypeScript frontend** connected to my **[kbg_backend](https://github.com/AmirSoltani2002/kbg_backend)** project. Covers production and lot tracking, raw-material intake, laboratory test results and approvals, certificates of analysis, customer orders, and user permissions in a Persian, right-to-left interface.
+
+[Frontend & UI gallery](https://github.com/AmirSoltani2002/KBG_frontend) · [Backend](https://github.com/AmirSoltani2002/kbg_backend)
+
 <details>
 <summary><b>More projects & coursework</b></summary>
 <br/>
